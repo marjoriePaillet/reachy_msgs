@@ -1,0 +1,5 @@
+# Service to change the camera resolution
+# resolution is either '1080p', '720p', '480p', '360p', '240p' or '180p'.
+string resolution
+---
+bool success
